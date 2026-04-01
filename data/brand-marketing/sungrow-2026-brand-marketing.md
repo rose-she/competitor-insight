@@ -1,12 +1,10 @@
 # 阳光电源（SUNGROW）2026 年品牌与市场活动汇总
 
-**采集说明**：基于公开网络信息与阳光电源官网/新闻稿整理，**统计截止日期：2026-04-01**。2026 年下半年展会（如 SNEC、Intersolar Europe 等）若在截止日后举办，需按官网与行业媒体做增量更新。文中链接供溯源；战略合作类除主流媒体/官网外，转载站信息建议与官方二次核对。
-
-**需求与监测框架**：原 briefing 截图可置于与本文件同级的 `assets/briefing-sungrow-2026.png`，并在此处增加一行 `![采集需求说明](assets/briefing-sungrow-2026.png)`。
+本文基于公开信息与阳光电源官网/新闻稿整理，**统计截至 2026-04-01**；战略合作类除权威披露外，转载稿需另行核对。
 
 ---
 
-## 一、产品动态（展会主题 / 新品与方案）
+## 一、产品动态
 
 ### 1. World Future Energy Summit（WFES）2026 — 阿联酋阿布扎比
 
@@ -35,9 +33,9 @@
 
 ### 4. ESIE 2026（第十四届储能国际峰会暨展览会）— 中国北京
 
-- **会期**：公开报道多为 **2026-03-31 至 04-03**（首都国际会展中心）；与采集日 04-01 重叠或刚结束，现场发布细节建议查 CNESA/主办方及阳光后续通稿。
-- **品牌动作（媒体报道）**：阳光电源 **冠名 ESIE 2026「B2 储能应用馆」**，主题侧重储能全场景与能源一体化等（详见财经媒体转载）。
-- **线索来源**：[新浪财经转载](https://t.cj.sina.cn/articles/view/8009774129/1dd6b743100101knwe)｜[千龙网](https://china.qianlong.com/2026/0303/8631833.shtml)｜[世纪新能源网日程稿](https://www.ne21.com/news/show-225544.html)
+- **会期**：公开报道多为 **2026-03-31 至 04-03**（首都国际会展中心）；现场发布细节以 CNESA/主办方及阳光后续通稿为准。
+- **品牌动作（媒体报道）**：阳光电源 **冠名 ESIE 2026「B2 储能应用馆」**，主题侧重储能全场景与能源一体化等。
+- **来源**：[新浪财经转载](https://t.cj.sina.cn/articles/view/8009774129/1dd6b743100101knwe)｜[千龙网](https://china.qianlong.com/2026/0303/8631833.shtml)｜[世纪新能源网日程稿](https://www.ne21.com/news/show-225544.html)
 
 ### 5. 第十六届中国国际清洁能源博览会（CEEC 2026）— 中国北京
 
@@ -50,7 +48,7 @@
 | 名称 | 上线/发布（官网或通稿） | 说明 |
 |------|-------------------------|------|
 | **《SUNGROW 干细胞构网技术 2.0 白皮书》** | 中文网 **2026-01-30** | 官网提供 PDF 下载（详情页标注约 13.1 MB）。 |
-| **《阳光电源储能白皮书：全方位的安全理念》**（与 **TÜV 莱茵** 联合） | 通稿多见 **2026-03-27** | 强调系统层级与全生命周期安全框架；见 PR Newswire 亚太稿与行业媒体转载。 |
+| **《阳光电源储能白皮书：全方位的安全理念》**（与 **TÜV 莱茵** 联合） | 通稿多见 **2026-03-27** | 强调系统层级与全生命周期安全框架。 |
 
 - **来源**：[构网 2.0 白皮书详情](https://cn.sungrowpower.com/white_paper_detail/1685.html)｜[PR Newswire（中）](https://www.prnewswire.com/apac/zh/news-releases/tuv-302726864.html)｜[中电网报道](https://news.eccn.com/news_2026032713294418.htm)
 
@@ -59,30 +57,30 @@
 - **2026 年会**：中文网《一种很新的Vlog：阳光电源2026年会现场直击》。
 - **来源**：[阳光电源中文网](https://cn.sungrowpower.com/news/1682.html)
 
-### 8. 2026 年计划展会（会前预告 / 会后待补通稿）
+### 8. 2026 年计划展会（会前预告 / 会后待官方通稿）
 
-以下条目为**行业公开排期 + 监测建议**；**阳光电源展台主题与新品以会期前后官网新闻为准**（勿与往届 SNEC 稿件混淆：中文网历史稿如 [SNEC 实力亮相](https://cn.sungrowpower.com/news/1543.html) 对应的是**第十七届**现场描述，非第十九届 2026）。
+以下仅为行业公开排期；**阳光展台主题与新品以会期前后官网新闻为准**（勿与往届 SNEC 稿件混淆：中文网 [SNEC 实力亮相](https://cn.sungrowpower.com/news/1543.html) 为**第十七届**实录，非第十九届 2026）。
 
 | 展会 | 时间与地点（公开信息） | 备注 |
 |------|------------------------|------|
-| **SNEC PV+ 第十九届 (2026)** | 多源显示 **2026-06-03～06-05**，上海国家会展中心等（以主办方最终通知为准） | 官网入口示例：[SNEC 官网](http://pv.snec.org.cn/) |
-| **Intersolar Europe 2026** | 业界信息多为 **2026-06-23～06-25**，德国慕尼黑（The smarter E Europe 组成部分） | 会期临近检索 `site:sungrowpower.com Intersolar 2026` |
-| **World Smart Energy Week（日本）** | 传统多在 **3 月** 东京；2026 年阳光是否参展需查英文/日文站点 **Events** | 与 ESIE、CEEC 时间接近，易与亚太传播稿混淆，建议按语种分站核对 |
+| **SNEC PV+ 第十九届 (2026)** | 多源显示 **2026-06-03～06-05**，上海（以主办方最终通知为准） | [SNEC 官网](http://pv.snec.org.cn/) |
+| **Intersolar Europe 2026** | 业界信息多为 **2026-06-23～06-25**，德国慕尼黑（The smarter E Europe 组成部分） | 会期后查阅阳光电源官网英文稿 |
+| **World Smart Energy Week（日本）** | 传统多在 **3 月** 东京 | 是否参展以阳光日文/英文站点活动信息为准 |
 
 ---
 
-## 二、标杆项目（交付 / 并网 / 大型合作类公开信息）
+## 二、标杆项目
 
-> 下列兼顾「品牌营销口径的标杆案例」与「媒体可见的 EPC/设备中标」线索；EPC 类以招标平台或业主披露为准。
+> 兼顾品牌营销口径的标杆案例与媒体可见的 EPC/设备类线索；EPC 以招标平台或业主披露为准。
 
 | 线索 | 要点 | 来源 |
 |------|------|------|
 | 南非 C&I 储能合作 | 与 **Herholdt's Group** 签署协议，规划 **1,155 MWh** 工商业储能，分阶段在南非落地 | [阳光官网英文](https://www.sungrowpower.com/en/sungrow-announces-1155-mwh-c-i-bess-partnership-in-south-africa)｜[PR Newswire](https://www.prnewswire.com/news-releases/sungrow-announces-1-155-mwh-ci-bess-partnership-in-south-africa-302726906.html) |
 | 湖北源网荷储一体化 EPC | 媒体报道 **2026-02-10** 联合体中标，金额约 **1.96 亿元**；含 **10MW/20MWh** 储能、分布式光伏等；联合体含中冶南方、阳光电源等 | [上海有色网](https://news.smm.cn/news/103768956)｜[世纪新能源网](https://m.ne21.com/news/show-224746.html) |
 | 欧洲 BESS 框架合作 | **Delta Capacity（台达储能）** 与阳光签署 **1GWh** 框架协议，采用 **PowerTitan 2.0**，报道指项目拟 **2026 年内** 交付；伦敦储能峰会期间签署 | [国际储能网 / in-en.com 转载](https://mchuneng.in-en.com/html/chunengy-52842.shtml) |
-| 其他区域 BESS 动向 | 媒体报道阳光在 **南非、罗马尼亚** 等地签署储能相关协议（细节以 Power Technology 等二次报道为准，建议对齐官网） | [Power Technology](https://www.power-technology.com/news/sungrow-signs-bess-deals/) |
+| 其他区域 BESS 动向 | 媒体报道阳光在 **南非、罗马尼亚** 等地签署储能相关协议（细节建议对齐官网） | [Power Technology](https://www.power-technology.com/news/sungrow-signs-bess-deals/) |
 
-**PR 线关联案例稿**（可作传播素材）：如 Kyto Farm 光储合作等，见 [PR Newswire 同主题列表](https://www.prnewswire.co.uk/news-releases/sungrow-unveils-sg125cx-p3-ci-inverter-at-solar--storage-live-africa-2026-302727061.html) 页内「Also from this source」。
+**传播类案例稿**（如 Kyto Farm 光储合作等）：见 [PR Newswire 同主题列表](https://www.prnewswire.co.uk/news-releases/sungrow-unveils-sg125cx-p3-ci-inverter-at-solar--storage-live-africa-2026-302727061.html) 页内「Also from this source」。
 
 ---
 
@@ -92,41 +90,11 @@
 |------|------|------|
 | **Corporate Knights 2026 Global 100** | 入选全球最具可持续性企业百强，**全球总排名第 12**、**电气装备制造板块第一**；达沃斯世界经济论坛期间发布 | [阳光官网英文 2026-01-23](https://www.sungrowpower.com/en/sungrow-ranks-12th-globally-and-tops-electrical-equipment-sector-in-corporate-knights-2026-global-100) |
 | **Time × Statista** | 官网同稿提及获评 **World's Best Companies in Sustainable Growth 2026**（与 Global 100 稿并列叙述） | 同上 |
-| **BloombergNEF Bankability** | 阳光在官网与通稿中长期表述为 BNEF 认可的 **全球最具可融资性** 逆变器/储能厂商之一；媒体报道中常见为 **「第六次」逆变器可融资性调研首位** 等表述（调研年份在稿件中多为 **2025 年调研结果**，发布延续至 2026 年传播） | 例：[阳光官网相关稿](https://www.sungrowpower.com/en/sungrow-secures-top-rank-again-in-bloombergnef-s-2025-inverter-bankability-survey) |
+| **BloombergNEF Bankability** | 阳光在官网与通稿中长期表述为 BNEF 认可的 **全球最具可融资性** 逆变器/储能厂商之一；媒体报道中常见 **「第六次」逆变器可融资性调研首位** 等表述（调研多为 **2025 年**结果，传播延续至 2026 年） | 例：[阳光官网相关稿](https://www.sungrowpower.com/en/sungrow-secures-top-rank-again-in-bloombergnef-s-2025-inverter-bankability-survey) |
 | **ESG 评级** | 2026 Global 100 稿中提及 **MSCI ESG AAA**、**EcoVadis 金奖**（集团层面，2025）等 | 见 Corporate Knights 新闻稿正文 |
 
 ---
 
-## 四、其他（战略合作 / 传播 / 白皮书与监测源）
+## 四、其他
 
-### 1. 战略合作与框架协议
-
-- **1GWh / PowerTitan 2.0 / Delta Capacity**：见第二节表格。
-- **与国家电投、华能新能源、内蒙古区域合作** 等：公开检索有多家转载，**原文建议以国资委/央企公告、阳光官网或上证互动易披露为准**，本汇总不逐条展开以免误引非权威转载。
-
-### 2. 官方与子公司站点（持续监测入口）
-
-- 中文官网：https://cn.sungrowpower.com/
-- 中文白皮书列表：https://cn.sungrowpower.com/white_paper.html
-- 全球英文新闻：https://www.sungrowpower.com/en/News-Media-News-list
-- 阳光新能源（子公司站群入口）：https://www.sungrowplant.com/
-- 白皮书栏目（英文站）：https://www.sungrowpower.com/en/White-paper
-
-### 3. 行业与能源媒体清单（按需求表归档，便于 RSS/人工巡检）
-
-包括但不限于：`https://www.cnenergynews.cn/`、`https://www.cpnn.com.cn/`、`https://www.nea.gov.cn/`、`https://www.ne-m.com/`、`https://www.ne21.com/`、`https://www.dongnengdi.com/`、`https://www.energystoragenews.com/`、`https://www.pv-magazine.com/`、`https://www.solarpowerworldonline.com/`、`https://www.windpowerengineering.com/`、`https://www.ntsibpv.com/`、`https://www.cecs.org.cn/`、`https://www.cec.org.cn/`、`https://www.chinapv.org.cn/`、`https://www.pvmen.com/`、`https://www.solarzoom.com/`、`https://www.dianyuan.com/`、`https://www.in-en.com/tech/` 以及 IEC、ASHRAE、IEEE Xplore 等（标准与论文源适合技术背书类监测）。
-
-### 4. 建议检索关键词（复用需求表）
-
-- 展会名 + Sungrow / 阳光电源 + 2026  
-- 「阳光电源 首次」「全球首次」「首款」+ 品类词  
-- 「BloombergNEF」「bankable」「Tier 1」+ Sungrow  
-
----
-
-## 五、修订记录
-
-| 日期 | 说明 |
-|------|------|
-| 2026-04-01 | 首版：汇总 WFES、非洲展、希腊展、ESIE 冠名线索、Corporate Knights、南非/湖北/欧洲项目与合作、年会传播及官方图片链接。 |
-| 2026-04-01 | 续补：**CEEC 2026（3 月北京）** 多场景方案报道；**构网 2.0 白皮书**（官网 1/30）、**TÜV 联合储能安全白皮书**（3/27 通稿）；**SNEC 2026 / Intersolar Europe 2026** 排期预告与检索提示；**纠正**中文网 SNEC 历史稿与十九届时间线混用风险；**需求图**改为可本地放置的 `assets/briefing-sungrow-2026.png` 说明。 |
+公开检索可见阳光电源与**国家电投、华能新能源、内蒙古自治区**等在储能、氢能、一体化示范项目等方面的**战略合作报道**；具体条款、范围与时效请以**阳光电源官网、上海证券交易所公告及合作方权威发布**为准，本文不对非官方转载逐条收录。
